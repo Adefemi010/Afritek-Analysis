@@ -18,14 +18,22 @@ Despite its growth, AfriTech is currently facing significant brand reputation ch
 ## Insights
 ### Customer & Transaction Trends
 •	Total Customers: 200
+
 •	Transactions:
+
 o	Total transaction: 74,000
+
 o	2022: 38,000
+
 o	2023: 32,000 (-16%)
+
 •	Average Daily Spend:
 o	81.1k
+
 o	2022: $84.5
+
 o	2023: $76.5 (-9.5%)
+
 Daily spending decreased by 9.5%, indicating a potential decline in customer trust or product value perception
 
 ### Recall Impact and Spending Behavior
